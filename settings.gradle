@@ -1,0 +1,5 @@
+rootProject.name = 'Task_2_Multi-module_Gradle_project'
+include 'db'
+include 'api'
+include 'service'
+
